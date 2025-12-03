@@ -1,3 +1,10 @@
+streamlit>=1.32
 openai>=1.0.0
-gradio>=4.0.0
 python-dotenv>=1.0.0
+
+# Optional but recommended for PDF/Markdown export
+reportlab>=4.0.0
+markdown>=3.5
+
+# If you're using gradio for anything else (optional)
+gradio>=4.0.0
