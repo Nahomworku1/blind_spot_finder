@@ -1,0 +1,21 @@
+============================
+BLIND SPOT FINDER REPORT
+============================
+
+1. Executive Summary
+{EXEC_SUMMARY}
+
+2. Critical Blind Spots (Analyzer)
+{ANALYZER_OUTPUT}
+
+3. Alternate Perspectives
+{PERSPECTIVE_OUTPUT}
+
+4. Skeptic Stress Test
+{SKEPTIC_OUTPUT}
+
+5. Top 3 Most Dangerous Blind Spots
+{TOP_THREE}
+
+6. Recommendations
+{RECOMMENDATIONS}
